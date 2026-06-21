@@ -1,0 +1,103 @@
+{
+  "produtos": [
+    {
+      "codigo": "a001",
+      "nome": "acai",
+      "preco": 15.0,
+      "quantidade": 10
+    }
+  ],
+  "movimentacoes": [
+    {
+      "tipo": "entrada",
+      "codigo_produto": "P001",
+      "quantidade": 100,
+      "motivo": "Compra fornecedor",
+      "data": "2026-06-18 09:15:30"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "P001",
+      "quantidade": 55,
+      "motivo": "Venda",
+      "data": "2026-06-18 14:20:45"
+    },
+    {
+      "tipo": "entrada",
+      "codigo_produto": "P002",
+      "quantidade": 20,
+      "motivo": "Compra fornecedor",
+      "data": "2026-06-19 10:30:00"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "P002",
+      "quantidade": 8,
+      "motivo": "Venda",
+      "data": "2026-06-19 15:45:30"
+    },
+    {
+      "tipo": "entrada",
+      "codigo_produto": "P003",
+      "quantidade": 10,
+      "motivo": "Compra fornecedor",
+      "data": "2026-06-19 11:00:00"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "P003",
+      "quantidade": 5,
+      "motivo": "Venda",
+      "data": "2026-06-20 13:20:15"
+    },
+    {
+      "tipo": "entrada",
+      "codigo_produto": "P004",
+      "quantidade": 30,
+      "motivo": "Compra fornecedor",
+      "data": "2026-06-20 09:00:00"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "P004",
+      "quantidade": 7,
+      "motivo": "Venda",
+      "data": "2026-06-20 16:30:45"
+    },
+    {
+      "tipo": "entrada",
+      "codigo_produto": "P005",
+      "quantidade": 25,
+      "motivo": "Compra fornecedor",
+      "data": "2026-06-21 08:15:00"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "P005",
+      "quantidade": 7,
+      "motivo": "Venda",
+      "data": "2026-06-21 12:00:30"
+    },
+    {
+      "tipo": "entrada",
+      "codigo_produto": "P001",
+      "quantidade": 25,
+      "motivo": "Reposição",
+      "data": "2026-06-21 17:56:48"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "P002",
+      "quantidade": 3,
+      "motivo": "Venda Online",
+      "data": "2026-06-21 17:56:48"
+    },
+    {
+      "tipo": "saida",
+      "codigo_produto": "A001",
+      "quantidade": 1,
+      "motivo": "venda",
+      "data": "2026-06-21 18:00:59"
+    }
+  ]
+}
